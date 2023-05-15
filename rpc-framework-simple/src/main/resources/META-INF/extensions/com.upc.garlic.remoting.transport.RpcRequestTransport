@@ -1,0 +1,1 @@
+netty=com.upc.garlic.remoting.transport.netty.client.NettyRpcClient
